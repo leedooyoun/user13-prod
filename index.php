@@ -1,3 +1,3 @@
 <?
-ehco "user13 production system";
+echo "user13 production system";
 ?>
